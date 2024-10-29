@@ -55,7 +55,7 @@ function UpcomingWebinar() {
          {
             title: webinar.title,
             description: webinar.description,
-            link: webinar.link,
+            link: webinar.link, 
          }
         ))} />
         </div>
